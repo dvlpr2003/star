@@ -1,0 +1,13 @@
+.w-6 {
+  height: 3.5rem;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30rem;
+}
+#star-container {
+  width: auto
+  ;
+}
